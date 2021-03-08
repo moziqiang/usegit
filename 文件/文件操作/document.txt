@@ -1,0 +1,4 @@
+这里是一段废话,我是另一段话，由file_put_contents()方法写入
+这里是一段废话,我是另一段话，由file_put_contents()方法写入
+这里是一段废话,我是另一段话，由file_put_contents()方法写入
+这里是一段废话,我是另一段话，由file_put_contents()方法写入
